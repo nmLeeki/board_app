@@ -1,6 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
 import BoardList from "./components/boardList";
 import { createGlobalStyle } from "styled-components";
 
